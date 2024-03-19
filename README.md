@@ -19,8 +19,5 @@ I graduated from Tula State University with a degree in "Devices and systems of 
 
 <p align="left"> <a href="https://www.github.com/2laexe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### 🚀 My projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=2laexe&repo=qa-engineer-project-84&theme=dark&bg_color=00000000&)](https://github.com/2laexe/qa-engineer-project-84)
-
 ### 🔗 Connect with me:
 <a align="left" href="https://t.me/Alexey1_k"><img alt="Telegram" height="25px" src="./img/telegram.png" /></a>
